@@ -1,0 +1,225 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "angular tutorial",
+      "url": "https://www.freecodecamp.org/news/content/images/2022/09/angular.png",
+      "empadLink": "https://www.youtube.com/embed/3qBXWUpoPHo"
+    },
+    {
+      "id": "2",
+      "caption": ".net tutorial",
+      "url": "https://i.ytimg.com/vi/kdPtNMb8tPw/hqdefault.jpg?v=60225069",
+      "empadLink": "https://www.youtube.com/embed/nelyq4LD-KY"
+    },
+    {
+      "id": "3",
+      "caption": "node tutorial",
+      "url": "https://i.ytimg.com/vi/U8XF6AFGqlc/maxresdefault.jpg",
+      "empadLink": "https://www.youtube.com/embed/ENrzD9HAZK4"
+    },
+    {
+      "id": "4",
+      "caption": "bootstrap tutorial",
+      "url": "https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png",
+      "empadLink": "https://www.youtube.com/embed/Jl4UWWj69dg"
+    },
+    {
+      "id": "5",
+      "caption": "Madhu Pakaroo Nii",
+      "url": "https://www.songmeaning.in/wp-content/uploads/2024/03/Madhu-Pakaroo-Lyrics-Translation-Varshangalkku-Shesham-450x359.jpg",
+      "empadLink": "https://www.youtube.com/embed/mpqaH8QuVWM"
+    },
+    {
+      "id": "6",
+      "caption": "Mini Maharani ",
+      "url": "https://timesofindia.indiatimes.com/photo/msid-107493558,imgsize-176716.cms",
+      "empadLink": "https://www.youtube.com/embed/6G75yTBzBUA"
+    },
+    {
+      "id": "7",
+      "caption": "Samjhawan Lyric Video",
+      "url": "https://i0.wp.com/lyricsted.com/wp-content/uploads/2022/04/Samjhawan-Lyrics.jpg",
+      "empadLink": "https://www.youtube.com/embed/H2f7MZaw3Yo"
+    },
+    {
+      "id": "8",
+      "caption": "PANIYON SA Song",
+      "url": "https://i.ytimg.com/vi/Jm7Satp7Zqk/maxresdefault.jpg",
+      "empadLink": "https://www.youtube.com/embed/Jm7Satp7Zqk"
+    },
+    {
+      "id": "9",
+      "caption": "Deko deko jaise mere irade",
+      "url": "https://i.ytimg.com/vi/gJLVTKhTnog/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhd5RL1kks2lv8Bl-0d7Jy2PNIMA",
+      "empadLink": "https://www.youtube.com/embed/gJLVTKhTnog"
+    },
+    {
+      "id": "10",
+      "caption": "Vikram Vedha Songs",
+      "url": "https://i.ytimg.com/vi/Y3-PeuQ7nvY/maxresdefault.jpg",
+      "empadLink": "https://www.youtube.com/embed/Y3-PeuQ7nvY"
+    },
+    {
+      "id": "11",
+      "caption": "Kadhaippoma Video Song",
+      "url": "https://i.ytimg.com/vi/DScFlfN9vDk/maxresdefault.jpg",
+      "embedLink": "",
+      "empadLink": "https://www.youtube.com/embed/DScFlfN9vDk"
+    }
+  ],
+  "catagories": [
+    {
+      "categoryName": "Tutorial Videos",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "bootstrap tutorial",
+          "url": "https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png",
+          "empadLink": "https://www.youtube.com/embed/Jl4UWWj69dg"
+        },
+        {
+          "id": "3",
+          "caption": "node tutorial",
+          "url": "https://i.ytimg.com/vi/U8XF6AFGqlc/maxresdefault.jpg",
+          "empadLink": "https://www.youtube.com/embed/ENrzD9HAZK4"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Malayalam Videos",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Mini Maharani ",
+          "url": "https://timesofindia.indiatimes.com/photo/msid-107493558,imgsize-176716.cms",
+          "empadLink": "https://www.youtube.com/embed/6G75yTBzBUA"
+        },
+        {
+          "id": "5",
+          "caption": "Madhu Pakaroo Nii",
+          "url": "https://www.songmeaning.in/wp-content/uploads/2024/03/Madhu-Pakaroo-Lyrics-Translation-Varshangalkku-Shesham-450x359.jpg",
+          "empadLink": "https://www.youtube.com/embed/mpqaH8QuVWM"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Hindi Videos",
+      "allVideos": [
+        {
+          "id": "9",
+          "caption": "Deko deko jaise mere irade",
+          "url": "https://i.ytimg.com/vi/gJLVTKhTnog/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhd5RL1kks2lv8Bl-0d7Jy2PNIMA",
+          "empadLink": "https://www.youtube.com/embed/gJLVTKhTnog"
+        },
+        {
+          "id": "7",
+          "caption": "Samjhawan Lyric Video",
+          "url": "https://i0.wp.com/lyricsted.com/wp-content/uploads/2022/04/Samjhawan-Lyrics.jpg",
+          "empadLink": "https://www.youtube.com/embed/H2f7MZaw3Yo"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "node tutorial",
+      "empadLink": "https://www.youtube.com/embed/ENrzD9HAZK4",
+      "timeStamp": "01/03/2024, 16:02:50",
+      "id": 1
+    },
+    {
+      "caption": ".net tutorial",
+      "empadLink": "https://www.youtube.com/embed/nelyq4LD-KY",
+      "timeStamp": "01/03/2024, 16:02:53",
+      "id": 2
+    },
+    {
+      "caption": "bootstrap tutorial",
+      "empadLink": "https://www.youtube.com/embed/Jl4UWWj69dg",
+      "timeStamp": "01/03/2024, 16:47:14",
+      "id": 3
+    },
+    {
+      "caption": "Kadhaippoma Video Song",
+      "empadLink": "https://www.youtube.com/embed/DScFlfN9vDk",
+      "timeStamp": "01/03/2024, 20:29:16",
+      "id": 4
+    },
+    {
+      "caption": "Madhu Pakaroo Nii",
+      "empadLink": "https://www.youtube.com/embed/mpqaH8QuVWM",
+      "timeStamp": "01/03/2024, 20:30:04",
+      "id": 5
+    },
+    {
+      "caption": "Madhu Pakaroo Nii",
+      "empadLink": "https://www.youtube.com/embed/mpqaH8QuVWM",
+      "timeStamp": "01/03/2024, 20:30:24",
+      "id": 6
+    },
+    {
+      "caption": "Mini Maharani ",
+      "empadLink": "https://www.youtube.com/embed/6G75yTBzBUA",
+      "timeStamp": "01/03/2024, 20:30:30",
+      "id": 7
+    },
+    {
+      "caption": "Samjhawan Lyric Video",
+      "empadLink": "https://www.youtube.com/embed/H2f7MZaw3Yo",
+      "timeStamp": "01/03/2024, 20:30:36",
+      "id": 8
+    },
+    {
+      "caption": "PANIYON SA Song",
+      "empadLink": "https://www.youtube.com/embed/Jm7Satp7Zqk",
+      "timeStamp": "01/03/2024, 20:30:48",
+      "id": 9
+    },
+    {
+      "caption": "Vikram Vedha Songs",
+      "empadLink": "https://www.youtube.com/embed/Y3-PeuQ7nvY",
+      "timeStamp": "01/03/2024, 20:31:03",
+      "id": 10
+    },
+    {
+      "caption": "Madhu Pakaroo Nii",
+      "empadLink": "https://www.youtube.com/embed/mpqaH8QuVWM",
+      "timeStamp": "01/03/2024, 20:31:20",
+      "id": 11
+    },
+    {
+      "caption": "Madhu Pakaroo Nii",
+      "empadLink": "https://www.youtube.com/embed/mpqaH8QuVWM",
+      "timeStamp": "02/03/2024, 18:36:12",
+      "id": 12
+    },
+    {
+      "caption": "Samjhawan Lyric Video",
+      "empadLink": "https://www.youtube.com/embed/H2f7MZaw3Yo",
+      "timeStamp": "02/03/2024, 18:40:36",
+      "id": 13
+    },
+    {
+      "caption": "bootstrap tutorial",
+      "empadLink": "https://www.youtube.com/embed/Jl4UWWj69dg",
+      "timeStamp": "02/03/2024, 19:37:41",
+      "id": 14
+    },
+    {
+      "caption": "bootstrap tutorial",
+      "empadLink": "https://www.youtube.com/embed/Jl4UWWj69dg",
+      "timeStamp": "02/03/2024, 23:29:21",
+      "id": 15
+    },
+    {
+      "caption": "Madhu Pakaroo Nii",
+      "empadLink": "https://www.youtube.com/embed/mpqaH8QuVWM",
+      "timeStamp": "03/03/2024, 11:39:19",
+      "id": 16
+    }
+  ]
+}
